@@ -1,0 +1,39 @@
+links 
+
+PROCESADOR INTEL 10MA GENERACIÓN  INTEL CORE I3 10105 3.70 GHZ
+1. https://compunixec.com/producto/procesador-intel-core-i3-10100-4-nucleos-4-3ghz-s1200-10ma-generacion/
+2. https://www.alltec.cl/intel/1717-37ghz-intel-i3-10105-gpu-intel-uhd-630-44ghz-turbo-4c8t-6mb-cache-65w-lga1200-10ma-generacion.html
+3. https://pcbyte.com.pe/producto/proc-intel-core-i3-10105-bx8070110105-3-7ghz-6mb-lga-1200/
+4. https://www.onpcell.com/products/intel-core-i3-10105-3-7-ghz-4-nucleos
+
+BOARD INTEL 10MA Y 11VA GENERACION  ASUS PRIME H510M-E
+1.https://pcel.com/ASUS-PRIME-H510M-E-T-Madre-ASUS-PRIME-H510M-E-Chipset-Intel-H510M-Soporta-Intel-10ma-y-11va-Generacion-de-Socket-1200-Memoria-DDR4-3200-2800-2133MHz-64GB-Max-Integrado-AudioHD-384690
+
+BOARD INTEL 10MA Y 11VA GENERACION ASUS TUF B460M- PLUS GAMING (WI-FI)
+1. https://www.asus.com/es/Motherboards-Components/Motherboards/TUF-Gaming/TUF-GAMING-B460M-PLUS-WI-FI/
+
+BOARD INTEL 10MA Y 11VA GENERACION ASUS PRIME B560M-A
+1.https://www.amazon.com/-/es/B560M-generaci%C3%B3n-ranuras-potencia-V-M-2-Key/dp/B08W726FGL
+
+
+BOARD INTEL 10MA Y 11VA GENERACION ASROCK Z590 OC FORMULA
+1. https://tecnogaming.com/el-asrock-z590-oc-formula-aprovecha-la-arquictura-de-intel-al-extremo/
+
+
+BOARD INTEL 10MA Y 11VA GENERACION ASUS PRIME Z590-P
+1.https://www.profesionalreview.com/2021/04/11/asus-prime-z590-p-review/
+
+
+MEMORIA RAM PARA PC DDR4 - DDR5 DDR4 8GB 2666 PATRIOT
+1. https://www.amazon.es/Patriot-Memory-DDR4-2666MHz-m%C3%B3dulo/dp/B07CVDYH5Q/ref=asc_df_B07CVDYH5Q/?tag=googshopes-21&linkCode=df0&hvadid=529579818604&hvpos=&hvnetw=g&hvrand=647024500908599467&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1005514&hvtargid=pla-542483945198&psc=1
+2. https://www.pccomponentes.com/kingston-fury-beast-ddr4-2666-mhz-8gb-cl16?gclid=CjwKCAjwtKmaBhBMEiwAyINuwNkY5WDclAGWnKM66PRUIFvGT9gbWfw9eevL19ev6JG_nT96S2cZERoCXK0QAvD_BwE
+
+MEMORIA RAM PARA PC DDR4 - DDR5  DDR4 8GB 3200 ADATA
+1. https://es.aliexpress.com/item/32969847974.html?_randl_currency=EUR&_randl_shipto=ES&src=google&src=google&albch=shopping&acnt=439-079-4345&slnk=&plac=&mtctp=&albbt=Google_7_shopping&albagn=888888&isSmbAutoCall=false&needSmbHouyi=false&albcp=17223524136&albag=139444314471&trgt=296715514933&crea=es32969847974&netw=u&device=c&albpg=296715514933&albpd=es32969847974&gclid=CjwKCAjwtKmaBhBMEiwAyINuwNU8fzKH_NrpwPeDfuy1pjQodgDmaOaVwm-goGxzwCV2dbzFFh6c9xoCiiQQAvD_BwE&gclsrc=aw.ds&aff_fcid=ecbfd5d54ab54f1099358451ab36b24e-1665859950995-04367-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=ecbfd5d54ab54f1099358451ab36b24e-1665859950995-04367-UneMJZVf&terminal_id=3db07e094b8b450a8d82be6bd55f7aef&afSmartRedirect=y
+
+MEMORIA RAM PARA PC DDR4 - DDR5 DDR4 8GB 3000 HYPERX FURY RGB
+1. https://www.neobyte.es/memoria-kingston-hyperx-8gb-ddr4-3000-fury-rgb-6560.html
+
+
+
+1. https://es.aliexpress.com/item/1005004144511766.html?_randl_currency=EUR&_randl_shipto=ES&src=google&src=google&albch=shopping&acnt=439-079-4345&slnk=&plac=&mtctp=&albbt=Google_7_shopping&albagn=888888&isSmbAutoCall=false&needSmbHouyi=false&albcp=11758679187&albag=116841987329&trgt=295204014427&crea=es1005004144511766&netw=u&device=c&albpg=295204014427&albpd=es1005004144511766&gclid=CjwKCAjwtKmaBhBMEiwAyINuwDk_aGFZvS1ku1Y50g2XkduoiSlWh39qr2ql9AXZIi3gkMcgrlJFSxoCuPkQAvD_BwE&gclsrc=aw.ds&aff_fcid=0b717324c62d4a8c89d300c51245da1e-1665860259172-07849-UneMJZVf&aff_fsk=UneMJZVf&aff_platform=aaf&sk=UneMJZVf&aff_trace_key=0b717324c62d4a8c89d300c51245da1e-1665860259172-07849-UneMJZVf&terminal_id=3db07e094b8b450a8d82be6bd55f7aef&afSmartRedirect=y

@@ -1,0 +1,116 @@
+[
+    {
+        "nombre":"Board",
+        "descripcion":"5756",
+        "precio":"356434",
+        "stock":"2"  
+    },
+        
+    {
+        "nombre":"Board4",
+        "descripcion":"784",
+        "precio":"214",
+        "stock":"1"   
+    },
+    
+    {
+        "nombre":"Board23",
+        "descripcion":"hfdskjd",
+        "precio":"356434",
+        "stock":"6"   
+    },
+    
+    {
+        "nombre":"Gamers",
+        "descripcion":"hola",
+        "precio":"356434",
+        "stock":"3"  
+    },
+
+    {
+        "nombre":"ASus",
+        "descripcion":"portatil gamer",
+        "precio":"350000",
+        "stock":"6"  
+    },
+
+    {
+        "nombre":"Lenovo",
+        "descripcion":"Consola porta",
+        "precio":"334200",
+        "stock":"1"  
+    },
+
+    {
+        "nombre":"Fly",
+        "descripcion":"B",
+        "precio":"6422",
+        "stock":"2"  
+    },
+    {
+        "nombre":"Lenovo67",
+        "descripcion":"Consola porta",
+        "precio":"334200",
+        "stock":"1"  
+    },
+
+    {
+        "nombre":"air Toshiba",
+        "descripcion":"B",
+        "precio":"422",
+        "stock":"2"  
+    },
+
+    {
+        "nombre":"Toshiba",
+        "descripcion":"Consola porta",
+        "precio":"34200",
+        "stock":"1"  
+    },
+
+    {
+        "nombre":"Airt",
+        "descripcion":"B",
+        "precio":"6492",
+        "stock":"4"  
+    },
+    {
+        "nombre":"Hp",
+        "descripcion":"Consola porta",
+        "precio":"334200",
+        "stock":"1"  
+    },
+
+    {
+        "nombre":"Mack",
+        "descripcion":"57",
+        "precio":"6422",
+        "stock":"2"  
+    },
+    {
+        "nombre":"Xbox",
+        "descripcion":"Consola porta",
+        "precio":"334200",
+        "stock":"1"  
+    },
+
+    {
+        "nombre":"Play",
+        "descripcion":"B",
+        "precio":"6422",
+        "stock":"2"  
+    },
+    {
+        "nombre":"PsVita",
+        "descripcion":"Consola porta",
+        "precio":"334200",
+        "stock":"1"  
+    },
+
+    {
+        "nombre":"Wii",
+        "descripcion":"B",
+        "precio":"6422",
+        "stock":"2"  
+    }
+]

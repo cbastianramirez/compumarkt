@@ -1,0 +1,41 @@
+[
+    {
+        "_id":"P01",
+        "nombre":"Procesador Intel Core i5",
+        "precio":350000,
+        "fabricante":"Intel",
+        "modelo":"i5-3470",
+        "descripcion":"Quad-core (4 núcleos) de 3,20 GHz - Socket H2 LGA-1155 - 1 MB - 6 MB de caché - 5 GT/s DMI - Procesamiento de 64 bits - Velocidad de overclocking de 3,60 GHz - 22 nm",
+        "tags":[
+            "computacion", "procesadores", "tecnologia", "windows", "gaming"
+        ],
+        "stock":25,
+        "imagen":"./compufront/static/imagenes/productos/p01.jpg"
+    },
+    {
+        "_id":"P02",
+        "nombre":"Board MSI Gaming",
+        "precio":300000,
+        "fabricante":"MSI",
+        "modelo":"MSI2345",
+        "descripcion":"Soporta 7/6th generación de procesadores Intel Core/Pentium/Celeron para socket LGA 1151, memoria DDR4 – 4133 + (OC). DDR4 Boost con armadura de acero. VR listo y VR Boost",
+        "tags":[
+            "computacion", "boards", "tecnologia", "gaming"
+        ],
+        "stock":15,
+        "imagen":"./compufront/static/imagenes/productos/p02.jpg"
+    },
+    {
+        "_id":"P03",
+        "nombre":"RAM DD4 16GB",
+        "precio":350000,
+        "fabricante":"Patriot",
+        "modelo":"SAM3412",
+        "descripcion":"Capacidad: 16 GB (1 x 16 GB) DDR4, Frecuencia: 3200 MHz (PC4-25600), (Uno) Módulo de una sola cara de 1 rango. Formato: DIMM sin búfer ECC, salida de pin: 288 pines. Garantía limitada de por vida",
+        "tags":[
+            "computacion", "procesadores", "tecnologia", "gaming"
+        ],
+        "stock":23,
+        "imagen":"./compufront/static/imagenes/productos/p03.jpg"
+    }
+]

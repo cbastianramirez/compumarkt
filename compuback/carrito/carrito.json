@@ -1,0 +1,12 @@
+[
+    {
+        "idcliente":"U02",
+        "idproducto":"P02",
+        "estado":"pendiente"
+    },
+    {
+        "idcliente":"U03",
+        "idproducto":"P01",
+        "estado":"inactiva"
+    }
+]

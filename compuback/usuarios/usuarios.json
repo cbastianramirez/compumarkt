@@ -1,0 +1,41 @@
+[
+    {
+        "_id":"U01",
+        "nombre":"Pedro",
+        "apellidos":"Ramírez Perea",
+        "email":"pperea@mail.com",
+        "contraseña":"123456",
+        "telefono":"3150002345",
+        "direccion":"Av 1A # 34-56",
+        "ciudad":"Sabaneta",
+        "departamento":"Antioquia",
+        "rol":"cliente",
+        "avatar":"./compufront/static/imagenes/u01.jpg"
+    },
+    {
+        "_id":"U02",
+        "nombre":"Sandra",
+        "apellidos":"Sanchez Perea",
+        "email":"ssanchez@mail.com",
+        "contraseña":"909090",
+        "telefono":"3159992345",
+        "direccion":"Carrera 8 # 67-56",
+        "ciudad":"Bello",
+        "departamento":"Antioquia",
+        "rol":"cliente",
+        "avatar":"./compufront/static/imagenes/u02.jpg"
+    },
+    {
+        "_id":"U03",
+        "nombre":"Luis",
+        "apellidos":"Lopez Perez",
+        "email":"llopez@mail.com",
+        "contraseña":"qwerty",
+        "telefono":"3112345678",
+        "direccion":"Calle 10 # 34-56",
+        "ciudad":"Bogotá",
+        "departamento":"Bogotá DC",
+        "rol":"administrador",
+        "avatar":"./compufront/static/imagenes/usuarios/u03.jpg"
+    }    
+]
